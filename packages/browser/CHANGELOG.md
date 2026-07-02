@@ -1,5 +1,14 @@
 # @hyperdx/browser
 
+## 0.24.1
+
+### Patch Changes
+
+- Updated dependencies [6a98ed1]
+- Updated dependencies [c6e35c8]
+  - @hyperdx/otel-web-session-recorder@3.0.0
+  - @hyperdx/otel-web@0.19.0
+
 ## 0.24.0
 
 ### Minor Changes
